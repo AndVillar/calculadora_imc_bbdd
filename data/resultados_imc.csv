@@ -1,0 +1,601 @@
+Fecha;Nombre;Peso;Altura;IMC;Clasificación;Actividad
+2024-01-01;Ander;87,0;1,79;27,15;Sobrepeso;bajo
+2024-01-02;Ander;83,6;1,63;31,47;Obesidad;medio
+2024-01-03;Ander;67,6;1,77;21,58;Normal;bajo
+2024-01-04;Ander;64,6;1,56;26,55;Sobrepeso;medio
+2024-01-05;Ander;67,8;1,56;27,86;Sobrepeso;alto
+2024-01-06;Ander;96,8;1,74;31,97;Obesidad;alto
+2024-01-07;Ander;59,7;1,81;18,22;Bajo peso;bajo
+2024-01-08;Ander;92,5;1,65;33,98;Obesidad;medio
+2024-01-09;Ander;56,9;1,76;18,37;Bajo peso;alto
+2024-01-10;Ander;72,7;1,68;25,76;Sobrepeso;bajo
+2024-01-11;Ander;72,5;1,76;23,41;Normal;alto
+2024-01-12;Ander;64,1;1,63;24,13;Normal;alto
+2024-01-13;Ander;85,2;1,74;28,14;Sobrepeso;alto
+2024-01-14;Ander;62,4;1,86;18,04;Bajo peso;alto
+2024-01-15;Ander;66,8;1,81;20,39;Normal;bajo
+2024-01-16;Ander;75,4;1,59;29,82;Sobrepeso;medio
+2024-01-17;Ander;69,0;1,8;21,3;Normal;alto
+2024-01-18;Ander;72,6;1,85;21,21;Normal;alto
+2024-01-19;Ander;78,1;1,74;25,8;Sobrepeso;bajo
+2024-01-20;Ander;61,3;1,73;20,48;Normal;bajo
+2024-01-21;Ander;70,9;1,74;23,42;Normal;bajo
+2024-01-22;Ander;66,2;1,57;26,86;Sobrepeso;medio
+2024-01-23;Ander;91,8;1,72;31,03;Obesidad;alto
+2024-01-24;Ander;82,9;1,71;28,35;Sobrepeso;medio
+2024-01-25;Ander;79,2;1,88;22,41;Normal;bajo
+2024-01-26;Ander;74,8;1,77;23,88;Normal;medio
+2024-01-27;Ander;65,5;1,57;26,57;Sobrepeso;alto
+2024-01-28;Ander;69,5;1,79;21,69;Normal;bajo
+2024-01-29;Ander;80,7;1,89;22,59;Normal;bajo
+2024-01-30;Ander;53,4;1,83;15,95;Bajo peso;alto
+2024-01-01;Lucia;50,7;1,55;21,1;Normal;medio
+2024-01-02;Lucia;88,4;1,88;25,01;Sobrepeso;medio
+2024-01-03;Lucia;83,9;1,89;23,49;Normal;medio
+2024-01-04;Lucia;53,9;1,79;16,82;Bajo peso;alto
+2024-01-05;Lucia;80,0;1,59;31,64;Obesidad;alto
+2024-01-06;Lucia;75,4;1,68;26,71;Sobrepeso;medio
+2024-01-07;Lucia;55,5;1,71;18,98;Normal;medio
+2024-01-08;Lucia;98,9;1,64;36,77;Obesidad;alto
+2024-01-09;Lucia;56,0;1,61;21,6;Normal;alto
+2024-01-10;Lucia;60,3;1,81;18,41;Bajo peso;alto
+2024-01-11;Lucia;61,7;1,77;19,69;Normal;bajo
+2024-01-12;Lucia;82,1;1,79;25,62;Sobrepeso;medio
+2024-01-13;Lucia;54,6;1,88;15,45;Bajo peso;alto
+2024-01-14;Lucia;80,6;1,64;29,97;Sobrepeso;medio
+2024-01-15;Lucia;52,3;1,79;16,32;Bajo peso;medio
+2024-01-16;Lucia;57,9;1,89;16,21;Bajo peso;bajo
+2024-01-17;Lucia;71,0;1,84;20,97;Normal;medio
+2024-01-18;Lucia;83,3;1,66;30,23;Obesidad;alto
+2024-01-19;Lucia;79,9;1,71;27,32;Sobrepeso;bajo
+2024-01-20;Lucia;72,1;1,66;26,16;Sobrepeso;bajo
+2024-01-21;Lucia;90,9;1,64;33,8;Obesidad;medio
+2024-01-22;Lucia;65,6;1,72;22,17;Normal;bajo
+2024-01-23;Lucia;69,3;1,8;21,39;Normal;bajo
+2024-01-24;Lucia;58,6;1,86;16,94;Bajo peso;medio
+2024-01-25;Lucia;82,8;1,84;24,46;Normal;medio
+2024-01-26;Lucia;63,4;1,88;17,94;Bajo peso;medio
+2024-01-27;Lucia;56,1;1,67;20,12;Normal;alto
+2024-01-28;Lucia;91,4;1,75;29,84;Sobrepeso;bajo
+2024-01-29;Lucia;77,4;1,72;26,16;Sobrepeso;alto
+2024-01-30;Lucia;50,9;1,88;14,4;Bajo peso;medio
+2024-01-01;Carlos;60,3;1,62;22,98;Normal;bajo
+2024-01-02;Carlos;61,5;1,61;23,73;Normal;medio
+2024-01-03;Carlos;80,3;1,57;32,58;Obesidad;bajo
+2024-01-04;Carlos;51,4;1,8;15,86;Bajo peso;alto
+2024-01-05;Carlos;78,5;1,77;25,06;Sobrepeso;medio
+2024-01-06;Carlos;83,1;1,6;32,46;Obesidad;alto
+2024-01-07;Carlos;78,7;1,69;27,56;Sobrepeso;medio
+2024-01-08;Carlos;53,5;1,9;14,82;Bajo peso;bajo
+2024-01-09;Carlos;96,9;1,9;26,84;Sobrepeso;bajo
+2024-01-10;Carlos;59,5;1,61;22,95;Normal;bajo
+2024-01-11;Carlos;83,9;1,61;32,37;Obesidad;alto
+2024-01-12;Carlos;75,1;1,77;23,97;Normal;alto
+2024-01-13;Carlos;89,0;1,56;36,57;Obesidad;bajo
+2024-01-14;Carlos;78,9;1,74;26,06;Sobrepeso;medio
+2024-01-15;Carlos;51,6;1,7;17,85;Bajo peso;bajo
+2024-01-16;Carlos;53,3;1,74;17,6;Bajo peso;alto
+2024-01-17;Carlos;52,8;1,86;15,26;Bajo peso;alto
+2024-01-18;Carlos;72,8;1,81;22,22;Normal;alto
+2024-01-19;Carlos;71,0;1,89;19,88;Normal;bajo
+2024-01-20;Carlos;59,6;1,76;19,24;Normal;alto
+2024-01-21;Carlos;74,3;1,72;25,11;Sobrepeso;medio
+2024-01-22;Carlos;60,2;1,57;24,42;Normal;bajo
+2024-01-23;Carlos;80,5;1,56;33,08;Obesidad;bajo
+2024-01-24;Carlos;96,2;1,67;34,49;Obesidad;bajo
+2024-01-25;Carlos;97,1;1,86;28,07;Sobrepeso;alto
+2024-01-26;Carlos;60,0;1,76;19,37;Normal;bajo
+2024-01-27;Carlos;77,4;1,79;24,16;Normal;medio
+2024-01-28;Carlos;67,0;1,71;22,91;Normal;bajo
+2024-01-29;Carlos;82,2;1,83;24,55;Normal;alto
+2024-01-30;Carlos;87,4;1,71;29,89;Sobrepeso;bajo
+2024-01-01;Maria;59,3;1,63;22,32;Normal;medio
+2024-01-02;Maria;73,8;1,66;26,78;Sobrepeso;alto
+2024-01-03;Maria;58,7;1,81;17,92;Bajo peso;bajo
+2024-01-04;Maria;97,2;1,89;27,21;Sobrepeso;medio
+2024-01-05;Maria;94,7;1,72;32,01;Obesidad;medio
+2024-01-06;Maria;71,0;1,62;27,05;Sobrepeso;alto
+2024-01-07;Maria;84,6;1,68;29,97;Sobrepeso;bajo
+2024-01-08;Maria;68,1;1,82;20,56;Normal;bajo
+2024-01-09;Maria;79,8;1,86;23,07;Normal;bajo
+2024-01-10;Maria;65,3;1,62;24,88;Normal;alto
+2024-01-11;Maria;89,7;1,61;34,61;Obesidad;medio
+2024-01-12;Maria;83,4;1,7;28,86;Sobrepeso;medio
+2024-01-13;Maria;87,7;1,87;25,08;Sobrepeso;alto
+2024-01-14;Maria;60,3;1,59;23,85;Normal;medio
+2024-01-15;Maria;51,1;1,8;15,77;Bajo peso;bajo
+2024-01-16;Maria;92,5;1,87;26,45;Sobrepeso;alto
+2024-01-17;Maria;69,9;1,62;26,63;Sobrepeso;alto
+2024-01-18;Maria;72,9;1,9;20,19;Normal;medio
+2024-01-19;Maria;88,3;1,89;24,72;Normal;bajo
+2024-01-20;Maria;75,6;1,79;23,59;Normal;bajo
+2024-01-21;Maria;96,4;1,63;36,28;Obesidad;bajo
+2024-01-22;Maria;76,5;1,74;25,27;Sobrepeso;alto
+2024-01-23;Maria;61,1;1,75;19,95;Normal;medio
+2024-01-24;Maria;61,4;1,58;24,6;Normal;alto
+2024-01-25;Maria;51,2;1,89;14,33;Bajo peso;bajo
+2024-01-26;Maria;93,0;1,73;31,07;Obesidad;medio
+2024-01-27;Maria;68,1;1,67;24,42;Normal;alto
+2024-01-28;Maria;80,6;1,61;31,09;Obesidad;alto
+2024-01-29;Maria;50,6;1,87;14,47;Bajo peso;alto
+2024-01-30;Maria;88,5;1,88;25,04;Sobrepeso;bajo
+2024-01-01;Javier;80,4;1,58;32,21;Obesidad;alto
+2024-01-02;Javier;57,4;1,89;16,07;Bajo peso;alto
+2024-01-03;Javier;83,6;1,85;24,43;Normal;medio
+2024-01-04;Javier;53,5;1,87;15,3;Bajo peso;medio
+2024-01-05;Javier;78,3;1,74;25,86;Sobrepeso;alto
+2024-01-06;Javier;58,5;1,8;18,06;Bajo peso;alto
+2024-01-07;Javier;98,6;1,88;27,9;Sobrepeso;medio
+2024-01-08;Javier;94,6;1,8;29,2;Sobrepeso;alto
+2024-01-09;Javier;97,0;1,72;32,79;Obesidad;medio
+2024-01-10;Javier;88,9;1,75;29,03;Sobrepeso;alto
+2024-01-11;Javier;57,0;1,6;22,27;Normal;alto
+2024-01-12;Javier;93,3;1,7;32,28;Obesidad;alto
+2024-01-13;Javier;73,4;1,89;20,55;Normal;medio
+2024-01-14;Javier;57,3;1,7;19,83;Normal;medio
+2024-01-15;Javier;81,8;1,87;23,39;Normal;medio
+2024-01-16;Javier;95,9;1,89;26,85;Sobrepeso;medio
+2024-01-17;Javier;86,5;1,73;28,9;Sobrepeso;alto
+2024-01-18;Javier;90,1;1,61;34,76;Obesidad;medio
+2024-01-19;Javier;69,2;1,62;26,37;Sobrepeso;bajo
+2024-01-20;Javier;88,0;1,63;33,12;Obesidad;bajo
+2024-01-21;Javier;86,6;1,84;25,58;Sobrepeso;alto
+2024-01-22;Javier;67,0;1,85;19,58;Normal;alto
+2024-01-23;Javier;88,8;1,68;31,46;Obesidad;bajo
+2024-01-24;Javier;85,2;1,8;26,3;Sobrepeso;alto
+2024-01-25;Javier;80,0;1,79;24,97;Normal;alto
+2024-01-26;Javier;71,9;1,68;25,47;Sobrepeso;medio
+2024-01-27;Javier;64,3;1,6;25,12;Sobrepeso;bajo
+2024-01-28;Javier;94,6;1,82;28,56;Sobrepeso;bajo
+2024-01-29;Javier;59,2;1,84;17,49;Bajo peso;alto
+2024-01-30;Javier;97,8;1,71;33,45;Obesidad;bajo
+2024-01-01;Sofia;60,3;1,77;19,25;Normal;bajo
+2024-01-02;Sofia;50,5;1,73;16,87;Bajo peso;alto
+2024-01-03;Sofia;69,4;1,61;26,77;Sobrepeso;alto
+2024-01-04;Sofia;86,5;1,88;24,47;Normal;medio
+2024-01-05;Sofia;99,7;1,89;27,91;Sobrepeso;medio
+2024-01-06;Sofia;68,9;1,74;22,76;Normal;alto
+2024-01-07;Sofia;82,5;1,7;28,55;Sobrepeso;medio
+2024-01-08;Sofia;86,0;1,72;29,07;Sobrepeso;bajo
+2024-01-09;Sofia;52,5;1,67;18,82;Normal;bajo
+2024-01-10;Sofia;95,2;1,69;33,33;Obesidad;alto
+2024-01-11;Sofia;71,0;1,87;20,3;Normal;medio
+2024-01-12;Sofia;51,0;1,89;14,28;Bajo peso;bajo
+2024-01-13;Sofia;53,2;1,9;14,74;Bajo peso;bajo
+2024-01-14;Sofia;69,6;1,8;21,48;Normal;bajo
+2024-01-15;Sofia;97,8;1,77;31,22;Obesidad;medio
+2024-01-16;Sofia;65,6;1,87;18,76;Normal;bajo
+2024-01-17;Sofia;52,2;1,72;17,64;Bajo peso;alto
+2024-01-18;Sofia;94,5;1,55;39,33;Obesidad;alto
+2024-01-19;Sofia;80,3;1,63;30,22;Obesidad;alto
+2024-01-20;Sofia;59,2;1,66;21,48;Normal;bajo
+2024-01-21;Sofia;65,2;1,83;19,47;Normal;bajo
+2024-01-22;Sofia;62,6;1,76;20,21;Normal;bajo
+2024-01-23;Sofia;81,5;1,84;24,07;Normal;alto
+2024-01-24;Sofia;94,3;1,74;31,15;Obesidad;bajo
+2024-01-25;Sofia;86,8;1,83;25,92;Sobrepeso;medio
+2024-01-26;Sofia;77,1;1,86;22,29;Normal;bajo
+2024-01-27;Sofia;61,6;1,61;23,76;Normal;bajo
+2024-01-28;Sofia;80,2;1,62;30,56;Obesidad;bajo
+2024-01-29;Sofia;81,7;1,74;26,99;Sobrepeso;bajo
+2024-01-30;Sofia;70,0;1,67;25,1;Sobrepeso;medio
+2024-01-01;Pedro;74,5;1,68;26,4;Sobrepeso;medio
+2024-01-02;Pedro;51,3;1,78;16,19;Bajo peso;alto
+2024-01-03;Pedro;90,3;1,88;25,55;Sobrepeso;bajo
+2024-01-04;Pedro;51,2;1,81;15,63;Bajo peso;alto
+2024-01-05;Pedro;79,2;1,7;27,4;Sobrepeso;bajo
+2024-01-06;Pedro;54,0;1,79;16,85;Bajo peso;medio
+2024-01-07;Pedro;61,6;1,85;18,0;Bajo peso;bajo
+2024-01-08;Pedro;92,7;1,81;28,3;Sobrepeso;bajo
+2024-01-09;Pedro;97,7;1,71;33,41;Obesidad;medio
+2024-01-10;Pedro;50,5;1,76;16,3;Bajo peso;bajo
+2024-01-11;Pedro;68,5;1,56;28,15;Sobrepeso;bajo
+2024-01-12;Pedro;53,0;1,74;17,51;Bajo peso;medio
+2024-01-13;Pedro;95,2;1,61;36,73;Obesidad;medio
+2024-01-14;Pedro;96,2;1,85;28,11;Sobrepeso;medio
+2024-01-15;Pedro;83,1;1,88;23,51;Normal;alto
+2024-01-16;Pedro;59,6;1,79;18,6;Normal;alto
+2024-01-17;Pedro;74,6;1,9;20,66;Normal;bajo
+2024-01-18;Pedro;92,8;1,63;34,93;Obesidad;medio
+2024-01-19;Pedro;75,0;1,73;25,06;Sobrepeso;medio
+2024-01-20;Pedro;81,0;1,65;29,75;Sobrepeso;medio
+2024-01-21;Pedro;61,9;1,76;19,98;Normal;alto
+2024-01-22;Pedro;96,6;1,79;30,15;Obesidad;bajo
+2024-01-23;Pedro;69,6;1,81;21,24;Normal;alto
+2024-01-24;Pedro;59,3;1,63;22,32;Normal;medio
+2024-01-25;Pedro;83,8;1,86;24,22;Normal;alto
+2024-01-26;Pedro;79,9;1,69;27,98;Sobrepeso;bajo
+2024-01-27;Pedro;62,5;1,76;20,18;Normal;medio
+2024-01-28;Pedro;82,6;1,77;26,37;Sobrepeso;bajo
+2024-01-29;Pedro;67,3;1,61;25,96;Sobrepeso;medio
+2024-01-30;Pedro;80,1;1,87;22,91;Normal;medio
+2024-01-01;Elena;84,7;1,55;35,25;Obesidad;alto
+2024-01-02;Elena;75,7;1,57;30,71;Obesidad;alto
+2024-01-03;Elena;93,0;1,58;37,25;Obesidad;alto
+2024-01-04;Elena;52,0;1,69;18,21;Bajo peso;alto
+2024-01-05;Elena;86,9;1,89;24,33;Normal;medio
+2024-01-06;Elena;50,5;1,71;17,27;Bajo peso;alto
+2024-01-07;Elena;99,3;1,71;33,96;Obesidad;alto
+2024-01-08;Elena;98,3;1,67;35,25;Obesidad;medio
+2024-01-09;Elena;62,9;1,71;21,51;Normal;medio
+2024-01-10;Elena;81,8;1,72;27,65;Sobrepeso;bajo
+2024-01-11;Elena;76,8;1,59;30,38;Obesidad;medio
+2024-01-12;Elena;50,6;1,56;20,79;Normal;medio
+2024-01-13;Elena;85,1;1,59;33,66;Obesidad;bajo
+2024-01-14;Elena;57,8;1,63;21,75;Normal;bajo
+2024-01-15;Elena;52,7;1,74;17,41;Bajo peso;medio
+2024-01-16;Elena;73,2;1,56;30,08;Obesidad;bajo
+2024-01-17;Elena;60,1;1,82;18,14;Bajo peso;medio
+2024-01-18;Elena;61,4;1,69;21,5;Normal;alto
+2024-01-19;Elena;62,6;1,6;24,45;Normal;bajo
+2024-01-20;Elena;51,0;1,61;19,68;Normal;bajo
+2024-01-21;Elena;55,0;1,84;16,25;Bajo peso;bajo
+2024-01-22;Elena;91,1;1,6;35,59;Obesidad;bajo
+2024-01-23;Elena;70,8;1,62;26,98;Sobrepeso;alto
+2024-01-24;Elena;69,1;1,69;24,19;Normal;bajo
+2024-01-25;Elena;60,1;1,76;19,4;Normal;medio
+2024-01-26;Elena;77,4;1,86;22,37;Normal;medio
+2024-01-27;Elena;95,3;1,69;33,37;Obesidad;bajo
+2024-01-28;Elena;94,1;1,58;37,69;Obesidad;alto
+2024-01-29;Elena;75,8;1,65;27,84;Sobrepeso;bajo
+2024-01-30;Elena;63,3;1,8;19,54;Normal;alto
+2024-01-01;Diego;95,5;1,87;27,31;Sobrepeso;bajo
+2024-01-02;Diego;67,1;1,77;21,42;Normal;bajo
+2024-01-03;Diego;73,8;1,67;26,46;Sobrepeso;bajo
+2024-01-04;Diego;93,7;1,65;34,42;Obesidad;bajo
+2024-01-05;Diego;65,4;1,63;24,62;Normal;medio
+2024-01-06;Diego;61,1;1,82;18,45;Bajo peso;medio
+2024-01-07;Diego;77,2;1,76;24,92;Normal;medio
+2024-01-08;Diego;74,9;1,64;27,85;Sobrepeso;bajo
+2024-01-09;Diego;73,2;1,63;27,55;Sobrepeso;alto
+2024-01-10;Diego;76,9;1,57;31,2;Obesidad;bajo
+2024-01-11;Diego;85,8;1,7;29,69;Sobrepeso;alto
+2024-01-12;Diego;55,4;1,89;15,51;Bajo peso;alto
+2024-01-13;Diego;59,0;1,76;19,05;Normal;medio
+2024-01-14;Diego;94,3;1,76;30,44;Obesidad;medio
+2024-01-15;Diego;53,6;1,79;16,73;Bajo peso;bajo
+2024-01-16;Diego;63,8;1,61;24,61;Normal;bajo
+2024-01-17;Diego;50,7;1,65;18,62;Normal;medio
+2024-01-18;Diego;82,8;1,56;34,02;Obesidad;bajo
+2024-01-19;Diego;84,5;1,61;32,6;Obesidad;medio
+2024-01-20;Diego;68,4;1,56;28,11;Sobrepeso;alto
+2024-01-21;Diego;70,3;1,62;26,79;Sobrepeso;alto
+2024-01-22;Diego;90,2;1,58;36,13;Obesidad;medio
+2024-01-23;Diego;97,0;1,64;36,06;Obesidad;alto
+2024-01-24;Diego;75,2;1,65;27,62;Sobrepeso;alto
+2024-01-25;Diego;83,8;1,82;25,3;Sobrepeso;alto
+2024-01-26;Diego;69,0;1,78;21,78;Normal;bajo
+2024-01-27;Diego;73,5;1,65;27,0;Sobrepeso;bajo
+2024-01-28;Diego;78,8;1,79;24,59;Normal;bajo
+2024-01-29;Diego;52,7;1,83;15,74;Bajo peso;bajo
+2024-01-30;Diego;58,4;1,68;20,69;Normal;medio
+2024-01-01;Laura;93,1;1,66;33,79;Obesidad;bajo
+2024-01-02;Laura;81,6;1,74;26,95;Sobrepeso;alto
+2024-01-03;Laura;76,6;1,6;29,92;Sobrepeso;bajo
+2024-01-04;Laura;74,6;1,72;25,22;Sobrepeso;alto
+2024-01-05;Laura;64,4;1,7;22,28;Normal;alto
+2024-01-06;Laura;80,8;1,73;27,0;Sobrepeso;bajo
+2024-01-07;Laura;75,8;1,87;21,68;Normal;medio
+2024-01-08;Laura;54,4;1,62;20,73;Normal;bajo
+2024-01-09;Laura;93,1;1,79;29,06;Sobrepeso;alto
+2024-01-10;Laura;98,5;1,56;40,48;Obesidad;medio
+2024-01-11;Laura;93,0;1,85;27,17;Sobrepeso;bajo
+2024-01-12;Laura;76,6;1,62;29,19;Sobrepeso;medio
+2024-01-13;Laura;74,2;1,59;29,35;Sobrepeso;bajo
+2024-01-14;Laura;75,3;1,62;28,69;Sobrepeso;medio
+2024-01-15;Laura;86,5;1,68;30,65;Obesidad;bajo
+2024-01-16;Laura;76,6;1,79;23,91;Normal;bajo
+2024-01-17;Laura;74,6;1,73;24,93;Normal;alto
+2024-01-18;Laura;71,5;1,88;20,23;Normal;medio
+2024-01-19;Laura;97,5;1,75;31,84;Obesidad;alto
+2024-01-20;Laura;68,6;1,74;22,66;Normal;alto
+2024-01-21;Laura;59,4;1,81;18,13;Bajo peso;medio
+2024-01-22;Laura;70,7;1,8;21,82;Normal;bajo
+2024-01-23;Laura;78,8;1,85;23,02;Normal;alto
+2024-01-24;Laura;74,4;1,8;22,96;Normal;alto
+2024-01-25;Laura;67,8;1,77;21,64;Normal;alto
+2024-01-26;Laura;64,5;1,83;19,26;Normal;alto
+2024-01-27;Laura;95,1;1,67;34,1;Obesidad;medio
+2024-01-28;Laura;73,0;1,87;20,88;Normal;medio
+2024-01-29;Laura;93,2;1,7;32,25;Obesidad;medio
+2024-01-30;Laura;67,8;1,76;21,89;Normal;alto
+2024-01-01;Hugo;94,3;1,65;34,64;Obesidad;alto
+2024-01-02;Hugo;76,7;1,9;21,25;Normal;alto
+2024-01-03;Hugo;76,7;1,68;27,18;Sobrepeso;bajo
+2024-01-04;Hugo;71,9;1,74;23,75;Normal;medio
+2024-01-05;Hugo;85,9;1,75;28,05;Sobrepeso;bajo
+2024-01-06;Hugo;92,0;1,83;27,47;Sobrepeso;medio
+2024-01-07;Hugo;51,4;1,56;21,12;Normal;medio
+2024-01-08;Hugo;93,2;1,87;26,65;Sobrepeso;alto
+2024-01-09;Hugo;90,4;1,67;32,41;Obesidad;bajo
+2024-01-10;Hugo;67,8;1,89;18,98;Normal;medio
+2024-01-11;Hugo;54,6;1,59;21,6;Normal;medio
+2024-01-12;Hugo;56,2;1,66;20,39;Normal;bajo
+2024-01-13;Hugo;95,0;1,85;27,76;Sobrepeso;bajo
+2024-01-14;Hugo;74,4;1,83;22,22;Normal;alto
+2024-01-15;Hugo;53,6;1,81;16,36;Bajo peso;bajo
+2024-01-16;Hugo;82,7;1,59;32,71;Obesidad;medio
+2024-01-17;Hugo;57,9;1,61;22,34;Normal;bajo
+2024-01-18;Hugo;99,8;1,83;29,8;Sobrepeso;medio
+2024-01-19;Hugo;83,8;1,65;30,78;Obesidad;medio
+2024-01-20;Hugo;61,5;1,67;22,05;Normal;bajo
+2024-01-21;Hugo;56,5;1,61;21,8;Normal;alto
+2024-01-22;Hugo;74,9;1,86;21,65;Normal;alto
+2024-01-23;Hugo;59,7;1,72;20,18;Normal;medio
+2024-01-24;Hugo;93,0;1,7;32,18;Obesidad;medio
+2024-01-25;Hugo;94,4;1,64;35,1;Obesidad;alto
+2024-01-26;Hugo;85,5;1,67;30,66;Obesidad;medio
+2024-01-27;Hugo;94,5;1,79;29,49;Sobrepeso;bajo
+2024-01-28;Hugo;82,8;1,78;26,13;Sobrepeso;medio
+2024-01-29;Hugo;61,7;1,55;25,68;Sobrepeso;bajo
+2024-01-30;Hugo;73,3;1,83;21,89;Normal;medio
+2024-01-01;Valeria;52,9;1,73;17,68;Bajo peso;alto
+2024-01-02;Valeria;81,1;1,82;24,48;Normal;medio
+2024-01-03;Valeria;62,2;1,75;20,31;Normal;alto
+2024-01-04;Valeria;63,6;1,56;26,13;Sobrepeso;alto
+2024-01-05;Valeria;58,1;1,74;19,19;Normal;bajo
+2024-01-06;Valeria;91,6;1,86;26,48;Sobrepeso;medio
+2024-01-07;Valeria;97,3;1,82;29,37;Sobrepeso;medio
+2024-01-08;Valeria;97,1;1,59;38,41;Obesidad;alto
+2024-01-09;Valeria;52,7;1,59;20,85;Normal;alto
+2024-01-10;Valeria;87,5;1,66;31,75;Obesidad;bajo
+2024-01-11;Valeria;90,6;1,75;29,58;Sobrepeso;alto
+2024-01-12;Valeria;98,1;1,79;30,62;Obesidad;medio
+2024-01-13;Valeria;67,6;1,58;27,08;Sobrepeso;bajo
+2024-01-14;Valeria;88,9;1,78;28,06;Sobrepeso;bajo
+2024-01-15;Valeria;57,1;1,78;18,02;Bajo peso;alto
+2024-01-16;Valeria;68,3;1,86;19,74;Normal;medio
+2024-01-17;Valeria;91,7;1,55;38,17;Obesidad;bajo
+2024-01-18;Valeria;91,5;1,69;32,04;Obesidad;alto
+2024-01-19;Valeria;63,1;1,58;25,28;Sobrepeso;alto
+2024-01-20;Valeria;87,3;1,71;29,86;Sobrepeso;alto
+2024-01-21;Valeria;65,1;1,79;20,32;Normal;bajo
+2024-01-22;Valeria;83,2;1,89;23,29;Normal;alto
+2024-01-23;Valeria;68,5;1,85;20,01;Normal;bajo
+2024-01-24;Valeria;51,1;1,79;15,95;Bajo peso;bajo
+2024-01-25;Valeria;75,2;1,85;21,97;Normal;bajo
+2024-01-26;Valeria;50,7;1,88;14,34;Bajo peso;bajo
+2024-01-27;Valeria;67,9;1,76;21,92;Normal;bajo
+2024-01-28;Valeria;66,6;1,83;19,89;Normal;bajo
+2024-01-29;Valeria;95,6;1,67;34,28;Obesidad;medio
+2024-01-30;Valeria;54,7;1,87;15,64;Bajo peso;medio
+2024-01-01;Martin;78,3;1,57;31,77;Obesidad;bajo
+2024-01-02;Martin;87,0;1,72;29,41;Sobrepeso;bajo
+2024-01-03;Martin;66,7;1,9;18,48;Bajo peso;medio
+2024-01-04;Martin;82,4;1,55;34,3;Obesidad;alto
+2024-01-05;Martin;69,7;1,87;19,93;Normal;bajo
+2024-01-06;Martin;50,7;1,63;19,08;Normal;medio
+2024-01-07;Martin;58,8;1,58;23,55;Normal;bajo
+2024-01-08;Martin;55,1;1,59;21,8;Normal;medio
+2024-01-09;Martin;54,5;1,72;18,42;Bajo peso;bajo
+2024-01-10;Martin;65,7;1,78;20,74;Normal;bajo
+2024-01-11;Martin;65,4;1,59;25,87;Sobrepeso;bajo
+2024-01-12;Martin;88,9;1,62;33,87;Obesidad;alto
+2024-01-13;Martin;72,4;1,59;28,64;Sobrepeso;alto
+2024-01-14;Martin;96,8;1,65;35,56;Obesidad;alto
+2024-01-15;Martin;87,3;1,73;29,17;Sobrepeso;bajo
+2024-01-16;Martin;56,9;1,65;20,9;Normal;medio
+2024-01-17;Martin;85,8;1,88;24,28;Normal;medio
+2024-01-18;Martin;97,8;1,83;29,2;Sobrepeso;medio
+2024-01-19;Martin;55,0;1,84;16,25;Bajo peso;bajo
+2024-01-20;Martin;83,9;1,73;28,03;Sobrepeso;alto
+2024-01-21;Martin;94,7;1,67;33,96;Obesidad;alto
+2024-01-22;Martin;78,5;1,8;24,23;Normal;alto
+2024-01-23;Martin;97,5;1,64;36,25;Obesidad;medio
+2024-01-24;Martin;55,8;1,69;19,54;Normal;bajo
+2024-01-25;Martin;61,8;1,83;18,45;Bajo peso;bajo
+2024-01-26;Martin;98,1;1,81;29,94;Sobrepeso;alto
+2024-01-27;Martin;92,4;1,78;29,16;Sobrepeso;alto
+2024-01-28;Martin;78,4;1,64;29,15;Sobrepeso;alto
+2024-01-29;Martin;80,5;1,81;24,57;Normal;medio
+2024-01-30;Martin;79,0;1,76;25,5;Sobrepeso;alto
+2024-01-01;Claudia;75,1;1,61;28,97;Sobrepeso;alto
+2024-01-02;Claudia;88,6;1,88;25,07;Sobrepeso;alto
+2024-01-03;Claudia;54,0;1,86;15,61;Bajo peso;bajo
+2024-01-04;Claudia;93,2;1,68;33,02;Obesidad;alto
+2024-01-05;Claudia;62,5;1,66;22,68;Normal;bajo
+2024-01-06;Claudia;55,7;1,59;22,03;Normal;medio
+2024-01-07;Claudia;67,7;1,83;20,22;Normal;alto
+2024-01-08;Claudia;61,8;1,86;17,86;Bajo peso;medio
+2024-01-09;Claudia;59,3;1,71;20,28;Normal;bajo
+2024-01-10;Claudia;92,0;1,83;27,47;Sobrepeso;bajo
+2024-01-11;Claudia;95,0;1,61;36,65;Obesidad;alto
+2024-01-12;Claudia;94,8;1,75;30,96;Obesidad;medio
+2024-01-13;Claudia;56,1;1,89;15,71;Bajo peso;bajo
+2024-01-14;Claudia;76,4;1,61;29,47;Sobrepeso;alto
+2024-01-15;Claudia;80,1;1,61;30,9;Obesidad;alto
+2024-01-16;Claudia;89,1;1,71;30,47;Obesidad;alto
+2024-01-17;Claudia;65,8;1,9;18,23;Bajo peso;alto
+2024-01-18;Claudia;97,8;1,74;32,3;Obesidad;alto
+2024-01-19;Claudia;82,9;1,81;25,3;Sobrepeso;bajo
+2024-01-20;Claudia;77,4;1,55;32,22;Obesidad;bajo
+2024-01-21;Claudia;50,7;1,68;17,96;Bajo peso;alto
+2024-01-22;Claudia;96,1;1,82;29,01;Sobrepeso;alto
+2024-01-23;Claudia;73,7;1,81;22,5;Normal;medio
+2024-01-24;Claudia;74,2;1,69;25,98;Sobrepeso;alto
+2024-01-25;Claudia;55,8;1,59;22,07;Normal;bajo
+2024-01-26;Claudia;83,0;1,68;29,41;Sobrepeso;medio
+2024-01-27;Claudia;70,3;1,76;22,69;Normal;alto
+2024-01-28;Claudia;85,6;1,81;26,13;Sobrepeso;alto
+2024-01-29;Claudia;87,9;1,67;31,52;Obesidad;alto
+2024-01-30;Claudia;79,9;1,77;25,5;Sobrepeso;bajo
+2024-01-01;Daniel;82,1;1,69;28,75;Sobrepeso;bajo
+2024-01-02;Daniel;50,1;1,85;14,64;Bajo peso;alto
+2024-01-03;Daniel;65,9;1,74;21,77;Normal;bajo
+2024-01-04;Daniel;64,2;1,58;25,72;Sobrepeso;bajo
+2024-01-05;Daniel;96,5;1,87;27,6;Sobrepeso;bajo
+2024-01-06;Daniel;94,1;1,86;27,2;Sobrepeso;bajo
+2024-01-07;Daniel;66,2;1,64;24,61;Normal;bajo
+2024-01-08;Daniel;61,5;1,84;18,17;Bajo peso;bajo
+2024-01-09;Daniel;55,1;1,68;19,52;Normal;medio
+2024-01-10;Daniel;51,4;1,73;17,17;Bajo peso;alto
+2024-01-11;Daniel;57,8;1,86;16,71;Bajo peso;bajo
+2024-01-12;Daniel;76,9;1,57;31,2;Obesidad;alto
+2024-01-13;Daniel;51,1;1,81;15,6;Bajo peso;medio
+2024-01-14;Daniel;85,3;1,57;34,61;Obesidad;medio
+2024-01-15;Daniel;96,4;1,8;29,75;Sobrepeso;alto
+2024-01-16;Daniel;79,5;1,69;27,84;Sobrepeso;bajo
+2024-01-17;Daniel;81,5;1,58;32,65;Obesidad;bajo
+2024-01-18;Daniel;66,4;1,68;23,53;Normal;alto
+2024-01-19;Daniel;62,1;1,77;19,82;Normal;medio
+2024-01-20;Daniel;51,0;1,87;14,58;Bajo peso;alto
+2024-01-21;Daniel;73,6;1,8;22,72;Normal;alto
+2024-01-22;Daniel;60,6;1,86;17,52;Bajo peso;alto
+2024-01-23;Daniel;74,9;1,76;24,18;Normal;medio
+2024-01-24;Daniel;62,3;1,7;21,56;Normal;bajo
+2024-01-25;Daniel;68,8;1,64;25,58;Sobrepeso;alto
+2024-01-26;Daniel;76,5;1,79;23,88;Normal;alto
+2024-01-27;Daniel;98,6;1,8;30,43;Obesidad;alto
+2024-01-28;Daniel;81,6;1,69;28,57;Sobrepeso;medio
+2024-01-29;Daniel;70,8;1,67;25,39;Sobrepeso;medio
+2024-01-30;Daniel;57,4;1,72;19,4;Normal;medio
+2024-01-01;Paula;50,1;1,67;17,96;Bajo peso;alto
+2024-01-02;Paula;62,5;1,61;24,11;Normal;medio
+2024-01-03;Paula;71,7;1,59;28,36;Sobrepeso;medio
+2024-01-04;Paula;84,1;1,78;26,54;Sobrepeso;alto
+2024-01-05;Paula;87,4;1,82;26,39;Sobrepeso;alto
+2024-01-06;Paula;65,0;1,78;20,52;Normal;alto
+2024-01-07;Paula;77,5;1,81;23,66;Normal;alto
+2024-01-08;Paula;90,1;1,8;27,81;Sobrepeso;alto
+2024-01-09;Paula;61,9;1,68;21,93;Normal;alto
+2024-01-10;Paula;63,4;1,8;19,57;Normal;alto
+2024-01-11;Paula;55,9;1,57;22,68;Normal;alto
+2024-01-12;Paula;99,1;1,6;38,71;Obesidad;alto
+2024-01-13;Paula;79,5;1,83;23,74;Normal;bajo
+2024-01-14;Paula;62,3;1,64;23,16;Normal;bajo
+2024-01-15;Paula;96,2;1,87;27,51;Sobrepeso;alto
+2024-01-16;Paula;77,4;1,75;25,27;Sobrepeso;bajo
+2024-01-17;Paula;58,6;1,65;21,52;Normal;alto
+2024-01-18;Paula;53,4;1,89;14,95;Bajo peso;alto
+2024-01-19;Paula;86,5;1,67;31,02;Obesidad;alto
+2024-01-20;Paula;59,1;1,9;16,37;Bajo peso;medio
+2024-01-21;Paula;60,2;1,64;22,38;Normal;bajo
+2024-01-22;Paula;52,5;1,6;20,51;Normal;medio
+2024-01-23;Paula;53,0;1,84;15,65;Bajo peso;bajo
+2024-01-24;Paula;65,7;1,67;23,56;Normal;medio
+2024-01-25;Paula;99,8;1,61;38,5;Obesidad;bajo
+2024-01-26;Paula;63,0;1,7;21,8;Normal;alto
+2024-01-27;Paula;54,2;1,75;17,7;Bajo peso;medio
+2024-01-28;Paula;64,9;1,71;22,19;Normal;bajo
+2024-01-29;Paula;79,4;1,66;28,81;Sobrepeso;bajo
+2024-01-30;Paula;83,7;1,76;27,02;Sobrepeso;bajo
+2024-01-01;Manuel;99,0;1,72;33,46;Obesidad;alto
+2024-01-02;Manuel;66,8;1,57;27,1;Sobrepeso;bajo
+2024-01-03;Manuel;65,4;1,6;25,55;Sobrepeso;medio
+2024-01-04;Manuel;59,1;1,78;18,65;Normal;alto
+2024-01-05;Manuel;73,1;1,84;21,59;Normal;medio
+2024-01-06;Manuel;76,6;1,81;23,38;Normal;bajo
+2024-01-07;Manuel;93,0;1,83;27,77;Sobrepeso;bajo
+2024-01-08;Manuel;54,0;1,58;21,63;Normal;bajo
+2024-01-09;Manuel;80,0;1,82;24,15;Normal;bajo
+2024-01-10;Manuel;73,6;1,85;21,5;Normal;bajo
+2024-01-11;Manuel;89,5;1,64;33,28;Obesidad;medio
+2024-01-12;Manuel;76,5;1,84;22,6;Normal;medio
+2024-01-13;Manuel;86,5;1,63;32,56;Obesidad;medio
+2024-01-14;Manuel;94,9;1,65;34,86;Obesidad;bajo
+2024-01-15;Manuel;72,4;1,67;25,96;Sobrepeso;alto
+2024-01-16;Manuel;78,4;1,77;25,02;Sobrepeso;bajo
+2024-01-17;Manuel;67,8;1,57;27,51;Sobrepeso;alto
+2024-01-18;Manuel;75,4;1,61;29,09;Sobrepeso;bajo
+2024-01-19;Manuel;54,6;1,71;18,67;Normal;alto
+2024-01-20;Manuel;56,2;1,89;15,73;Bajo peso;alto
+2024-01-21;Manuel;51,5;1,66;18,69;Normal;alto
+2024-01-22;Manuel;89,4;1,82;26,99;Sobrepeso;medio
+2024-01-23;Manuel;83,4;1,87;23,85;Normal;medio
+2024-01-24;Manuel;55,8;1,81;17,03;Bajo peso;alto
+2024-01-25;Manuel;82,4;1,79;25,72;Sobrepeso;alto
+2024-01-26;Manuel;79,4;1,89;22,23;Normal;bajo
+2024-01-27;Manuel;83,6;1,55;34,8;Obesidad;bajo
+2024-01-28;Manuel;78,4;1,86;22,66;Normal;bajo
+2024-01-29;Manuel;78,5;1,87;22,45;Normal;alto
+2024-01-30;Manuel;78,5;1,55;32,67;Obesidad;medio
+2024-01-01;Sara;89,1;1,64;33,13;Obesidad;medio
+2024-01-02;Sara;52,9;1,55;22,02;Normal;alto
+2024-01-03;Sara;64,6;1,68;22,89;Normal;alto
+2024-01-04;Sara;91,6;1,78;28,91;Sobrepeso;alto
+2024-01-05;Sara;76,5;1,66;27,76;Sobrepeso;medio
+2024-01-06;Sara;96,7;1,77;30,87;Obesidad;bajo
+2024-01-07;Sara;79,8;1,83;23,83;Normal;bajo
+2024-01-08;Sara;63,4;1,66;23,01;Normal;alto
+2024-01-09;Sara;91,2;1,56;37,48;Obesidad;bajo
+2024-01-10;Sara;97,3;1,69;34,07;Obesidad;alto
+2024-01-11;Sara;81,6;1,78;25,75;Sobrepeso;alto
+2024-01-12;Sara;60,8;1,66;22,06;Normal;medio
+2024-01-13;Sara;54,8;1,74;18,1;Bajo peso;bajo
+2024-01-14;Sara;99,1;1,67;35,53;Obesidad;medio
+2024-01-15;Sara;58,1;1,69;20,34;Normal;medio
+2024-01-16;Sara;98,9;1,7;34,22;Obesidad;alto
+2024-01-17;Sara;74,7;1,74;24,67;Normal;alto
+2024-01-18;Sara;79,0;1,62;30,1;Obesidad;bajo
+2024-01-19;Sara;94,1;1,69;32,95;Obesidad;bajo
+2024-01-20;Sara;64,9;1,75;21,19;Normal;bajo
+2024-01-21;Sara;78,0;1,61;30,09;Obesidad;medio
+2024-01-22;Sara;68,5;1,68;24,27;Normal;bajo
+2024-01-23;Sara;55,3;1,7;19,13;Normal;bajo
+2024-01-24;Sara;95,9;1,58;38,42;Obesidad;medio
+2024-01-25;Sara;53,4;1,56;21,94;Normal;bajo
+2024-01-26;Sara;58,9;1,61;22,72;Normal;bajo
+2024-01-27;Sara;80,5;1,57;32,66;Obesidad;alto
+2024-01-28;Sara;95,1;1,81;29,03;Sobrepeso;bajo
+2024-01-29;Sara;51,0;1,75;16,65;Bajo peso;medio
+2024-01-30;Sara;57,9;1,86;16,74;Bajo peso;medio
+2024-01-01;Alejandro;59,9;1,72;20,25;Normal;bajo
+2024-01-02;Alejandro;69,3;1,75;22,63;Normal;medio
+2024-01-03;Alejandro;84,5;1,74;27,91;Sobrepeso;bajo
+2024-01-04;Alejandro;67,5;1,83;20,16;Normal;alto
+2024-01-05;Alejandro;88,1;1,77;28,12;Sobrepeso;bajo
+2024-01-06;Alejandro;84,5;1,84;24,96;Normal;alto
+2024-01-07;Alejandro;75,6;1,59;29,9;Sobrepeso;alto
+2024-01-08;Alejandro;88,5;1,66;32,12;Obesidad;medio
+2024-01-09;Alejandro;63,1;1,86;18,24;Bajo peso;medio
+2024-01-10;Alejandro;91,5;1,6;35,74;Obesidad;bajo
+2024-01-11;Alejandro;53,0;1,85;15,49;Bajo peso;alto
+2024-01-12;Alejandro;64,3;1,7;22,25;Normal;bajo
+2024-01-13;Alejandro;93,5;1,85;27,32;Sobrepeso;medio
+2024-01-14;Alejandro;84,5;1,58;33,85;Obesidad;bajo
+2024-01-15;Alejandro;75,0;1,68;26,57;Sobrepeso;medio
+2024-01-16;Alejandro;62,4;1,61;24,07;Normal;bajo
+2024-01-17;Alejandro;79,5;1,74;26,26;Sobrepeso;medio
+2024-01-18;Alejandro;70,5;1,84;20,82;Normal;alto
+2024-01-19;Alejandro;64,1;1,76;20,69;Normal;bajo
+2024-01-20;Alejandro;89,2;1,58;35,73;Obesidad;medio
+2024-01-21;Alejandro;87,1;1,67;31,23;Obesidad;bajo
+2024-01-22;Alejandro;98,4;1,68;34,86;Obesidad;medio
+2024-01-23;Alejandro;56,1;1,56;23,05;Normal;bajo
+2024-01-24;Alejandro;62,6;1,88;17,71;Bajo peso;medio
+2024-01-25;Alejandro;81,4;1,55;33,88;Obesidad;medio
+2024-01-26;Alejandro;98,0;1,89;27,43;Sobrepeso;bajo
+2024-01-27;Alejandro;93,5;1,62;35,63;Obesidad;medio
+2024-01-28;Alejandro;65,8;1,58;26,36;Sobrepeso;bajo
+2024-01-29;Alejandro;76,9;1,68;27,25;Sobrepeso;bajo
+2024-01-30;Alejandro;95,4;1,89;26,71;Sobrepeso;medio
+2024-01-01;Carmen;94,6;1,61;36,5;Obesidad;alto
+2024-01-02;Carmen;96,3;1,69;33,72;Obesidad;medio
+2024-01-03;Carmen;79,5;1,58;31,85;Obesidad;bajo
+2024-01-04;Carmen;66,2;1,86;19,14;Normal;medio
+2024-01-05;Carmen;98,1;1,56;40,31;Obesidad;bajo
+2024-01-06;Carmen;87,1;1,71;29,79;Sobrepeso;alto
+2024-01-07;Carmen;50,7;1,83;15,14;Bajo peso;alto
+2024-01-08;Carmen;95,6;1,69;33,47;Obesidad;bajo
+2024-01-09;Carmen;51,9;1,69;18,17;Bajo peso;bajo
+2024-01-10;Carmen;98,8;1,78;31,18;Obesidad;bajo
+2024-01-11;Carmen;81,3;1,69;28,47;Sobrepeso;medio
+2024-01-12;Carmen;88,3;1,66;32,04;Obesidad;bajo
+2024-01-13;Carmen;96,1;1,72;32,48;Obesidad;bajo
+2024-01-14;Carmen;58,9;1,8;18,18;Bajo peso;alto
+2024-01-15;Carmen;55,7;1,63;20,96;Normal;medio
+2024-01-16;Carmen;57,2;1,58;22,91;Normal;alto
+2024-01-17;Carmen;59,0;1,59;23,34;Normal;bajo
+2024-01-18;Carmen;52,6;1,79;16,42;Bajo peso;medio
+2024-01-19;Carmen;76,7;1,58;30,72;Obesidad;alto
+2024-01-20;Carmen;90,1;1,73;30,1;Obesidad;medio
+2024-01-21;Carmen;55,4;1,58;22,19;Normal;alto
+2024-01-22;Carmen;87,8;1,66;31,86;Obesidad;medio
+2024-01-23;Carmen;75,3;1,86;21,77;Normal;medio
+2024-01-24;Carmen;79,2;1,89;22,17;Normal;medio
+2024-01-25;Carmen;52,7;1,67;18,9;Normal;alto
+2024-01-26;Carmen;82,2;1,78;25,94;Sobrepeso;medio
+2024-01-27;Carmen;53,6;1,68;18,99;Normal;medio
+2024-01-28;Carmen;62,7;1,59;24,8;Normal;alto
+2024-01-29;Carmen;65,4;1,83;19,53;Normal;bajo
+2024-01-30;Carmen;90,3;1,85;26,38;Sobrepeso;alto

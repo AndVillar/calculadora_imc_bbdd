@@ -1,0 +1,95 @@
+Proyecto
+
+2 bloques
+
+--
+Creación del proyecto:
+
+Estrucutura correcta de ficheros y codigo
+README.txt
+Setup.py para instalar librerías
+Script de prueba que ver la correcta función
+(pip install -e)
+
+Buen uso de git
+Rama main
+Rama develop
+Rama feature
+
+
+
+
+Ideas:
+
+2. Conversor de unidades
+
+📦 conversores/
+
+Longitud (metros a kilómetros, pulgadas a cm).
+Temperatura (Celsius a Fahrenheit).
+Masa (gramos a kilos).
+Bonus: unificar en un único módulo de interfaz.
+
+
+3. Utilidades de texto
+
+📦 text_utils/
+
+Contar palabras y caracteres.
+Revertir texto.
+Eliminar signos de puntuación.
+Bonus: detección de palíndromos.
+
+
+4. Funciones matemáticas
+
+📦 math_tools/
+
+Cálculo de factorial, Fibonacci, número primo.
+Operaciones con listas: media, mediana, moda.
+Bonus: visualización con matplotlib (si quieren practicar).
+
+
+5. Generador de contraseñas
+
+📦 password_gen/
+Generar contraseñas aleatorias con letras/números/símbolos.
+Opciones: longitud, tipos de caracteres.
+Bonus: validación de seguridad.
+6. Simulador de dados/cartas
+
+
+📦 juegos_azar/
+Tirar un dado de 6 caras.
+Sacar una carta aleatoria de una baraja.
+Bonus: hacer un mini juego de adivinanza.
+
+
+7. Temporizador / cronómetro
+
+📦 temporizador/
+Cuenta atrás en segundos.
+Cronómetro con inicio/parada.
+Bonus: impresión con animación (print con \r).
+8. Pequeño validador de datos
+
+
+📦 validador/
+Validar emails simples (regex básica).
+Validar números de teléfono.
+Bonus: función para limpiar texto (eliminar espacios, tildes, etc.)
+9. Mini base de datos en memoria
+
+📦 data_store/
+Guardar objetos tipo diccionario.
+Buscar, actualizar, eliminar por clave.
+Bonus: guardar en JSON y volver a cargar.
+10. Librería de operaciones con fechas
+
+
+📦 fecha_utils/
+
+Calcular días entre fechas.
+Sumar días a una fecha.
+Saber si una fecha es fin de semanas
+Bonus: calcular edad desde fecha de nacimiento.
