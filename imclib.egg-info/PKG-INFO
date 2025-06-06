@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: imclib
+Version: 0.1
+Summary: Librería para cálculo y gestión de IMC en CSV
+Author: Ander Villar
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
