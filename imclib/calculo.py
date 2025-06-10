@@ -12,3 +12,11 @@ def clasificar_imc(imc):
         return "Sobrepeso"
     else:
         return "Obesidad"
+    
+    def recomendar_cambio(imc):
+    if imc < 18.5:
+        return "Recomendación: aumentar la ingesta calórica"
+    elif imc >= 25:
+        return "Recomendación: aumentar la actividad física"
+    else:
+        return "Recomendación: mantener hábitos actuales"
