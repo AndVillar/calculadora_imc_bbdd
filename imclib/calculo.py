@@ -20,3 +20,11 @@ def recomendar_cambio(imc):
         return "Recomendación: aumentar la actividad física"
     else:
         return "Recomendación: mantener hábitos actuales"
+
+def peso_ideal(altura):
+    """
+    Calcula un rango de peso ideal basado en un IMC entre 18.5 y 24.9.
+    """
+    min_peso = 18.5 * (altura ** 2)
+    max_peso = 24.9 * (altura ** 2)
+    return round(min_peso, 1), round(max_peso, 1)
