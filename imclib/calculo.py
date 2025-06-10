@@ -28,3 +28,11 @@ def peso_ideal(altura):
     min_peso = 18.5 * (altura ** 2)
     max_peso = 24.9 * (altura ** 2)
     return round(min_peso, 1), round(max_peso, 1)
+
+def mostrar_alerta_peso(peso, peso_min, peso_max):
+    if peso < peso_min:
+        return "⚠️ Estás por debajo de tu peso ideal."
+    elif peso > peso_max:
+        return "⚠️ Estás por encima de tu peso ideal."
+    else:
+        return "✅ Estás dentro de tu rango ideal de peso."

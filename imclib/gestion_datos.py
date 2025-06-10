@@ -6,6 +6,8 @@ import pandas as pd
 from datetime import datetime
 from .calculo import calcular_imc, clasificar_imc
 from .calculo import calcular_imc, clasificar_imc, peso_ideal
+from .calculo import calcular_imc, clasificar_imc, peso_ideal, mostrar_alerta_peso
+
 
 def crear_archivo_si_no_existe(archivo, cabecera):
     if not os.path.exists(archivo):
@@ -31,6 +33,7 @@ def añadir_nuevo_registro(nombre, archivo):
         imc = calcular_imc(peso, altura)
         clasificacion = clasificar_imc(imc)
 
+
         with open(archivo, mode="a", newline="", encoding="latin1") as f:
             writer = csv.writer(f, delimiter=";")
             writer.writerow([
@@ -44,9 +47,14 @@ def añadir_nuevo_registro(nombre, archivo):
             ])
 
         print(f"\n{nombre}, tu IMC es {imc:.2f} - Clasificación: {clasificacion}")
-        
+
+        # Mostrar rango de peso ideal
         peso_min, peso_max = peso_ideal(altura)
         print(f"Tu peso ideal está entre {peso_min} kg y {peso_max} kg.")
+
+        # Mostrar alerta según tu peso actual
+        alerta = mostrar_alerta_peso(peso, peso_min, peso_max)
+        print(alerta)
 
     except ValueError as e:
         print(f"Error: {e}")
