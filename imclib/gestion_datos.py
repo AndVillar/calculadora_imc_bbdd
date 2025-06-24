@@ -4,8 +4,6 @@ import os
 import csv
 import pandas as pd
 from datetime import datetime
-from .calculo import calcular_imc, clasificar_imc
-from .calculo import calcular_imc, clasificar_imc, peso_ideal
 from .calculo import calcular_imc, clasificar_imc, peso_ideal, mostrar_alerta_peso
 
 
