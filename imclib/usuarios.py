@@ -1,5 +1,6 @@
 import re
 from datetime import datetime
+from tabulate import tabulate
 from imclib.bbdd import get_connection
 
 # === Validar que el email tenga un formato válido ===
@@ -58,3 +59,76 @@ def registrar_usuario():
     print("\n✅ Usuario registrado exitosamente!")
     print(f"ID asignado: {nuevo_id}")
     print(f"Fecha de registro: {fecha_registro}")
+
+
+# === Buscar usuario por email o nombre ===
+def ver_usuario():
+    print("\n=== BUSCAR USUARIO ===")
+    print("1. Buscar por email")
+    print("2. Buscar por nombre")
+    metodo = input("Seleccione método de búsqueda: ").strip()
+
+    if metodo == "1":
+        email = input("Ingrese email: ").strip()
+
+        with get_connection() as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT * FROM usuarios WHERE email = ?", (email,))
+            usuario = cursor.fetchone()
+
+        if usuario:
+            print("\n--- USUARIO ENCONTRADO ---")
+            print(f"ID: {usuario[0]}")
+            print(f"Nombre: {usuario[1]} {usuario[2]}")
+            print(f"Email: {usuario[3]}")
+            print(f"Teléfono: {usuario[4] or 'No especificado'}")
+            print(f"Dirección: {usuario[5] or 'No especificada'}")
+            print(f"Fecha de registro: {usuario[6]}")
+        else:
+            print("⚠️  No se encontró un usuario con ese email.")
+
+    elif metodo == "2":
+        nombre = input("Ingrese nombre: ").strip()
+
+        with get_connection() as conn:
+            cursor = conn.cursor()
+            cursor.execute("SELECT * FROM usuarios WHERE nombre LIKE ?", (f"%{nombre}%",))
+            resultados = cursor.fetchall()
+
+        if resultados:
+            for i, usuario in enumerate(resultados, start=1):
+                print(f"\n--- USUARIO #{i} ---")
+                print(f"ID: {usuario[0]}")
+                print(f"Nombre: {usuario[1]} {usuario[2]}")
+                print(f"Email: {usuario[3]}")
+                print(f"Teléfono: {usuario[4] or 'No especificado'}")
+                print(f"Dirección: {usuario[5] or 'No especificada'}")
+                print(f"Fecha de registro: {usuario[6]}")
+        else:
+            print("⚠️  No se encontraron usuarios con ese nombre.")
+
+    else:
+        print("❌ Opción no válida.")
+
+# === Mostrar todos los usuarios registrados ===
+def ver_todos_los_usuarios():
+    print("\n=== LISTA DE USUARIOS REGISTRADOS ===")
+
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT id, nombre || ' ' || apellidos AS nombre_completo, email, 
+                   COALESCE(telefono, 'No especificado') AS telefono,
+                   fecha_registro
+            FROM usuarios
+            ORDER BY id
+        """)
+        usuarios = cursor.fetchall()
+
+        if not usuarios:
+            print("No hay usuarios registrados.")
+            return
+
+        headers = ["ID", "Nombre", "Email", "Teléfono", "Fecha Registro"]
+        print(tabulate(usuarios, headers=headers, tablefmt="grid"))
+        print(f"\nTotal de usuarios: {len(usuarios)}")
