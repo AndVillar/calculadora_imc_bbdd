@@ -37,14 +37,13 @@ Proyecto_IMC_BBDD/
 ├── main.py                  → Script principal con menú interactivo
 ├── setup.py                 → Instalador del paquete como librería Python
 ├── README.md                → Este archivo
-└── requirements.txt         → (opcional) listado de dependencias
 
 ---------------------------------------------------------
 INSTRUCCIONES DE INSTALACIÓN Y USO
 
 1. Clona el repositorio:
 
-   git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
+   git clone https://github.com/AndVillar/calculadora_imc_bbdd.git
    cd TU-REPOSITORIO
 
 2. Crea un entorno virtual (opcional pero recomendado):
@@ -63,13 +62,16 @@ INSTRUCCIONES DE INSTALACIÓN Y USO
 ---------------------------------------------------------
 FUNCIONES DISPONIBLES DESDE EL MENÚ
 
-1. Registrar nuevo usuario
-2. Ver usuario por email o nombre
+0. Registrar nuevo usuario
+1. Ver usuario
+2. Ver registros IMC
 3. Crear factura para usuario
-4. Mostrar facturas de un usuario
-5. Resumen financiero por usuario
-6. Módulo de Salud (registrar y consultar IMC)
-7. Salir
+4. Modificar registro IMC
+5. Ver facturas de usuario
+6. Ver resumen financiero
+7. Módulo de Salud (IMC)
+8. Añadir nuevo registro IMC
+9. Salir
 
 MENÚ ADMIN (oculto): si se introduce la opción "010"
 - Ver todos los usuarios registrados (en formato tabla)
